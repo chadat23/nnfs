@@ -1,0 +1,17 @@
+# pixi environments
+.pixi
+*.egg-info
+# magic environments
+.magic
+
+# Mojo cache and build files
+.mojo/
+build/
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
